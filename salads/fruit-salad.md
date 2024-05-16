@@ -1,4 +1,4 @@
-# Fruit salad recipe
+# Fruit salad recipe is good
 
 
 ## Ingredients
