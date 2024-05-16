@@ -15,7 +15,7 @@
 
 
 ## Instructions
-
+q
 1. **Prepare the Fruits:**
    - Wash all the fruits thoroughly under running water.
    - Hull and halve the strawberries.
